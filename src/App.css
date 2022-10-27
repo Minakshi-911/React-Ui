@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    margin-top: 0px;
+}
+
+
+.link{
+    text-decoration: none;
+    color: inherit;
+}
+
+.Column {
+  flex-direction: column;
+  
+  display: flex;
+}
